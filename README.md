@@ -860,6 +860,7 @@ like WhatsApp | `apiKey` | Yes | Yes |
 ### Food & Drink
 | API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
+| [grapeminds Wine API](https://grapeminds.eu/developers) | Wine API providing structured wine data including wines, regions, producers, and grape varieties. | `apiKey` | Yes | No |
 | [BaconMockup](https://baconmockup.com/) | Resizable bacon placeholder images | No | Yes | Yes |
 | [Chomp](https://chompthis.com/api/) | Data about various grocery products and foods | `apiKey` | Yes | Unknown |
 | [Coffee](https://coffee.alexflipnote.dev/) | Random pictures of coffee | No | Yes | Unknown |
